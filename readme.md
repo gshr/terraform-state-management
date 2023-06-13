@@ -25,13 +25,14 @@ When using Terraform with AWS as your infrastructure provider, you can manage th
 
 ![Screenshot](s3_backend.PNG)
 
-    3. terraform apply --auto-approve
+## 3. terraform apply --auto-approve
 
-    Once you run this command it will create the resources in aws and will create a state file in s3 
+Once you run this command it will create the resources in aws and will create a state file in s3 
     
 
+  ![ScreenShot](statefileins3.PNG)
 
-
+DynamoDB table 
 
   ![Screenshot](state.PNG)
 
