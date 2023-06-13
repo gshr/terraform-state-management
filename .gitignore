@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+/local-setup/terraform.tfstate
+terraform.tfstate.backup
+/local-setup/.terraform/
+.idea
+terraform.tfstate
+
