@@ -19,14 +19,17 @@ When using Terraform with AWS as your infrastructure provider, you can manage th
 
     2. terraform init
 
-    ![Screenshot](s3_backend.PNG)
+![Screenshot](s3_backend.PNG)
 
     3. terraform apply --auto-approve
 
     Once you run this command it will create the resources in aws and will create a state file in s3 
     
 
-    ![Screenshot](state.PNG)
+
+
+
+  ![Screenshot](state.PNG)
 
 
 
