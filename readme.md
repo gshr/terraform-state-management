@@ -26,7 +26,7 @@ When using Terraform with AWS as your infrastructure provider, you can manage th
     Once you run this command it will create the resources in aws and will create a state file in s3 
     
 
-    ![Screenshot](images\state.PNG)
+    ![Screenshot](images/state.PNG)
 
 
 
