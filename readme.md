@@ -5,19 +5,23 @@ When using Terraform with AWS as your infrastructure provider, you can manage th
 
 # Steps To Create s3 bucket and DynamoDB table 
 
-    1.  Clone this repository into your system 
+## 1.  Clone this repository into your system 
+ 
+    
+     git clone https://github.com/gshr/terraform-state-management.git
+    
 
-    2.  cd .\local-setup\
+## 2.  cd .\local-setup\
 
-    3. terraform init
+## 3. terraform init
 
-    4. terraform apply --auto-approve
+## 4. terraform apply --auto-approve
 
 #  Validate if s3 remote working
 
-    1. cd .\remote-setup\
+## 1. cd .\remote-setup\
 
-    2. terraform init
+## 2. terraform init
 
 ![Screenshot](s3_backend.PNG)
 
